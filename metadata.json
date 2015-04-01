@@ -1,0 +1,14 @@
+{
+  "name": "cfsworks-bits_upload",
+  "version": "1.0.0",
+  "author": "cfsworks",
+  "summary": "Manage Microsoft's \"Background Intelligent Transfer Service\" IIS extension for uploads.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/CFSworks/puppet-bits_upload",
+  "project_page": "https://github.com/CFSworks/puppet-bits_upload",
+  "issues_url": "https://github.com/CFSworks/puppet-bits_upload/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
